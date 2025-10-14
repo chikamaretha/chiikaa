@@ -1,16 +1,16 @@
 body {
-   background-color: #FFB6C1; /* Warna lightPink */
-   font-family: Arial, sans-serif: /* Jenis huruf yang bersih dan mudah dibaca */
-   color: #663399; /* Warna teks utama (RebeccaPurple) */
+   background-color: #FFB6C1; 
+   font-family: Arial, sans-serif;
+   color: #663399; 
 }
 
 .kartu-profil {
     width: 300px;
-    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+    margin: 50px auto; 
     padding: 20px;
     background-color: white;
-    boarder-radius: 15px: /* Membuat sudut menjadi melengkung */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
+    boarder-radius: 15px;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1); /* Efek bayangan */
     text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
 
