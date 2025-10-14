@@ -10,12 +10,12 @@ body {
     padding: 20px;
     background-color: white;
     boarder-radius: 15px;
-    box-shadow: 0 4px 4px rgba(0,0,0,0.1); /* Efek bayangan */
-    text-align: center; /* Menengahkan semua teks di dalam kartu */
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1)
+    text-align: center;
 }
 
 
 .kartu-profil img {
     width: 150px;
-    boarder-radius: 50%; /* Trik untuk membuat gambar menjadi lingkaran sempurna 
+    boarder-radius: 50%; 
 }
